@@ -1,6 +1,6 @@
 name: "Clint Rabe"
-current_job: "Platforms and Media Engineer"
-education:
+  current_job: "Platforms and Media Engineer"
+  education:
   - "Self-Taught"
   - "Red Hat Certified System Administrator"
   - "Linux Fanboy"
