@@ -14,7 +14,7 @@ fields_of_interests:
   - "DevOps"
 
 technical_background:
-  - "Video on Demand"
+  - "Streaming Technologies and Video on Demand"
   - "Audio and Video Standards"
   - "Server Automation"
   - "Scripting"
